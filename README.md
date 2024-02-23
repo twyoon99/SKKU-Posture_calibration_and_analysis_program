@@ -1,2 +1,3 @@
 # SKKU-Posture_calibration_and_analysis_program
-성균관대학교 컨소시엄 2023 창의혁신 DNA 산학협력 팀 프로젝트입니다.
+The project was carried out by Sungkyunkwan University-Consortium-2023-Creative Innovation-DNA-industry-academic-cooperation Team Project in April 2023.
+We received the Engineering Innovation Award for the development of posture correction and interpretation programs using 2D modeling.
